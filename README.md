@@ -15,7 +15,7 @@ If you are interested in helping, join `#clojure-doc` on `irc.freenode.net`.
 ## Usage
 
 This project is primarily used for
-[lein-clojuredocs](https://github.com/dakrone/lein-clojuredocs). If
+[lein-clojuredocs](https://github.com/clojuredocs/lein-clojuredocs). If
 you want to use it from leiningen:
 
 ```clojure
@@ -91,11 +91,11 @@ Example json output can be found [here (for cheshire)](https://gist.github.com/3
 
 ## See Also
 
-- [lein-clojuredocs](http://github.com/dakrone/lein-clojuredocs)
-- [eisago](http://github.com/dakrone/eisago)
+- [lein-clojuredocs](http://github.com/clojuredocs/lein-clojuredocs)
+- [clojuredocs-next (API + website)](http://github.com/clojuredocs/web)
 
 ## License
 
-Copyright © 2012 Lee Hinman
+Copyright © 2012-2013 Lee Hinman and contributors
 
 Distributed under the Eclipse Public License, the same as Clojure.
