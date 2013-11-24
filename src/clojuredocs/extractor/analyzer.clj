@@ -1,4 +1,4 @@
-(ns cadastre.analyzer
+(ns clojuredocs.extractor.analyzer
   (:require [clojure.java.io :as io]
             [clojure.repl :as repl]
             [clojure.tools.namespace.file :as ns-file]
