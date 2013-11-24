@@ -19,10 +19,10 @@ This project is primarily used for
 you want to use it from leiningen:
 
 ```clojure
-[cadastre "0.1.1"]
+[clojuredocs/extractor "0.2.0-SNAPSHOT"]
 ```
 
-To use Cadastre as a library:
+To use Extractor as a library:
 
 ```clojure
 (ns foo
