@@ -1,15 +1,19 @@
-# [Cadastre](https://en.wikipedia.org/wiki/Cadastre), a Clojure Doc/Metadata Extractor
+# What Is Extractor
 
-A Clojure library designed to survey a Clojure codebase and extract
+This is a Clojure library designed to survey a Clojure codebase and extract
 meta information about it (in particular documentation).
 
+It is supposed to power a new version of clojuredocs.org once the library
+is mature enough.
 
-## Project Status
 
-This project is supposed to power the new version of clojuredocs.org. It is
-young and is very much **work in progress**.
+## Project Maturity
 
-If you are interested in helping, join `#clojure-doc` on `irc.freenode.net`.
+The project is young and is very much **work in progress**.
+
+If you are interested in helping, contact
+[@michaelklishin](https://github.com/michaelklishin) and join
+`#clojure-doc` on `irc.freenode.net`.
 
 
 ## Usage
