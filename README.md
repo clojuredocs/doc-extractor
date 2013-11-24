@@ -26,7 +26,7 @@ To use Cadastre as a library:
 
 ```clojure
 (ns foo
-  (:require [cadastre.analyzer :refer :all]))
+  (:require [clojuredocs.extractor.analyzer :refer :all]))
 
 ;; generate a map of clojure var metadata
 (gen-clojure "/Users/hinmanm/src/clojure")
