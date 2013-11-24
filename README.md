@@ -16,6 +16,40 @@ If you are interested in helping, contact
 `#clojure-doc` on `irc.freenode.net`.
 
 
+## Artifacts
+
+Langohr artifacts are [released to
+Clojars](https://clojars.org/clojuredocs/doc-extractors). If you are
+using Maven, add the following repository definition to your
+`pom.xml`:
+
+``` xml
+<repository>
+  <id>clojars.org</id>
+  <url>http://clojars.org/repo</url>
+</repository>
+```
+
+### The Most Recent Release
+
+With [Leiningen](http://leiningen.org):
+
+``` clojure
+[clojuredocs/extractor "0.2.0-SNAPSHOT"]
+```
+
+With Maven:
+
+``` xml
+<dependency>
+  <groupId>clojuredocs</groupId>
+  <artifactId>extractor</artifactId>
+  <version>0.2.0-SNAPSHOT</version>
+</dependency>
+```
+
+
+
 ## Usage
 
 This project is primarily used for
